@@ -2,21 +2,21 @@
 main:
   - title: "About Me"
     url: "/#about-me"
+  
+  - title: "Education"
+    url: "/#-education"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Languages"
+    url: "/#-languages"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Research"
+    url: "/#-research"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Activities"
+    url: "/#-activities"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Honors & Awards"
+    url: "/#-honors-&-awards"
 
   - title: "Internships"
     url: "/#-internships"
