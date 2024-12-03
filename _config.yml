@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "🎉Welcome!🎉"
 description              : "Less is more."
-repository               : "ltw/acapage.guthub.io"
+url                      : https://inawang666.github.io
+repository               : "inawang666/acapage"
 google_scholar_stats_use_cdn : false 
 
 # google analytics
