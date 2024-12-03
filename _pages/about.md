@@ -178,7 +178,7 @@ the 3rd prize
 - 2021
 **The Best City Volunteer** in Beijing volunteering activity for Babaoshan Revolutionary Cemetery
 
-# Part-time Jobs
+# Internships
 - 2014 - 2015
 an summer intern in **Shanghai Xueying Clothing Factory** and a building materials market
 - 2018.03
