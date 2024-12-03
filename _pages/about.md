@@ -18,8 +18,10 @@ redirect_from:
 
 # Welcome to my page! 🔥 🎉
 
+# About Me
 My research interest includes natural language and its processing from different perspectives. Here are some details about me.
 
+<span class='anchor' id='education'></span>
 # 📖 Education
 - *2011.09 - 2014.06*, Lu’an First Middle School, Lu’an, Anhui, China. 
 
@@ -27,6 +29,7 @@ My research interest includes natural language and its processing from different
 
 - *2019.09 - 2022.07*, University of Chinese Academy of Sciences(UCAS). **M.A**, Linguistics and Applied Linguistics in Foreign Languages (GPA: 3.64/4.00)
 
+<span class='anchor' id='languages'></span>
 # Languages
 - the highest levels (“Excellent”) in TEM-4 and TEM-8 (Test for English Major)
 - Shanghai Advanced Interpretation Certificate (translation)
@@ -35,6 +38,7 @@ My research interest includes natural language and its processing from different
 - passed Visual Basic prog Grade 2 (95/100)
 - able to program in languages such as python and C++.
 
+<span class='anchor' id='research'></span>
 # 💻 Research
 ## 1. Selected Projects
 
@@ -119,6 +123,7 @@ different feature extraction methods
 - JavaScript (bootstrap, Three WebGL, TouchSlide), HTML5 (WebGL), CSS
 - results: interactive Cube introduction and solving webpages.
 
+<span class='anchor' id='activities'></span>
 # Activities
 ## 1. Academic Activities
 - 2020.10
@@ -145,6 +150,7 @@ invited to report at **the Ninth International Academic Symposium on Contemporar
 - volunteered for the 2021 **online academic summer camp** of the department
 - participated in many inter-departmental teaching practice like visiting the **Huairou Science City**
 
+<span class='anchor' id='honors-&-awards'></span>
 # 🎖 Honors & Awards
 - 2014 - 2015
 the 1st-class **academic scholarship**
@@ -178,6 +184,7 @@ the 3rd prize
 - 2021
 **The Best City Volunteer** in Beijing volunteering activity for Babaoshan Revolutionary Cemetery
 
+<span class='anchor' id='internships'></span>
 # Internships
 - 2014 - 2015
 an summer intern in **Shanghai Xueying Clothing Factory** and a building materials market
