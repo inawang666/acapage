@@ -8,9 +8,9 @@
 # Site Settings
 title                    : "🎉Welcome!🎉"
 description              : "Less is more."
-#url                      : "https://inawang666.github.io"
+# url                      : "https://inawang666.github.io"
 repository               : "inawang666/acapage"
-google_scholar_stats_use_cdn : false 
+google_scholar_stats_use_cdn : true 
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -28,7 +28,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "litingwang827@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
