@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
@@ -18,5 +18,5 @@ main:
   - title: "Honors & Awards"
     url: "/#-honors-&-awards"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Part-time Jobs"
+    url: "/#-part-time-jobs"
