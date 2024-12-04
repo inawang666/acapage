@@ -1,4 +1,4 @@
-# 🎖 Honors & Awards
+# 🎖 Honors and Awards
 - 2014 - 2015
 the 1st-class **academic scholarship**
 - 2015 - 2016

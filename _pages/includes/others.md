@@ -1,4 +1,17 @@
-# 🧑‍💻 Part-time jobs
+# 📖 Educations
+- 2011.09 - 2014.06, Lu’an First Middle School, Lu’an, Anhui, China. 
+
+- 2014.09 - 2018.07, Anhui University of Technology(AHUT). **B.L**, English Language and Literature (GPA: 90.50/100.00).
+
+- 2019.09 - 2022.07, University of Chinese Academy of Sciences(UCAS). **M.A**, Linguistics and Applied Linguistics in Foreign Languages (GPA: 3.64/4.00)
+
+# 💬 Invited Talks
+- 2021.04
+invited to report at the high-level **Forum of Language Data Application & the Corpus Research Center Opening Ceremony of China Three Gorges University**
+- 2021.11
+invited to report at **the Ninth International Academic Symposium on Contemporary Chinese New Discourses & the Second International Discourse Studies Frontier Conference**
+
+# 💻 Internships
 - 2014 - 2015
 an summer intern in **Shanghai Xueying Clothing Factory** and a building materials market
 - 2018.03
@@ -17,3 +30,4 @@ an English training teacher in **China Foreign Affairs University**
 an English teacher in **Angel International Education**, Lugouqiao Campus, Beijing
 
 ##### ----------------bottom line's bottom line: the end----------------
+

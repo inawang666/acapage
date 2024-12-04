@@ -1,4 +1,5 @@
-# 💻 Research 
+# 📝 Publications 
+#    (and research experience)
 ## 🔍 1. Selected Projects
 
 ### *2014.09 - 2018.07 (AHUT)*

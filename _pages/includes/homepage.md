@@ -1,2 +1,2 @@
 # 📎 Homepages
-- Personal Pages: https://github.com/inawang666 (updated recently🔥)
+- Personal Pages: https://inawang666.github.io/acapage/ (updated recently🔥)
