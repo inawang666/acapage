@@ -1,4 +1,4 @@
-# 🔥 <span class='anchor' id='-news'>News</span>
+# 🔥 <span id='-news'>News</span>
 ## 💼 1. Academic Activities
 - 2020.10
 became a member of the Special Committee of Language, Literature and Science studies affiliated with **Chinese Society for the History of Science and Technology**
