@@ -1,5 +1,4 @@
-
-# 📖 <span class='anchor' id='-educations'>Educations</span>
+# 📖 <span id='-educations'>Educations</span>
 - 2011.09 - 2014.06, Lu’an First Middle School, Lu’an, Anhui, China. 
 
 - 2014.09 - 2018.07, Anhui University of Technology(AHUT). **B.L**, English Language and Literature (GPA: 90.50/100.00).
@@ -12,7 +11,7 @@ invited to report at the high-level **Forum of Language Data Application & the C
 - 2021.11
 invited to report at **the Ninth International Academic Symposium on Contemporary Chinese New Discourses & the Second International Discourse Studies Frontier Conference**
 
-# 💻 <span class='anchor' id='-internships'>Internships</span>
+# 💻 <span id='-internships'>Internships</span>
 - 2014 - 2015
 an summer intern in **Shanghai Xueying Clothing Factory** and a building materials market
 - 2018.03
