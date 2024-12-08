@@ -5,13 +5,13 @@
 
 - 2019.09 - 2022.07, University of Chinese Academy of Sciences(UCAS). **M.A**, Linguistics and Applied Linguistics in Foreign Languages (GPA: 3.64/4.00)
 
-# 💬 <span class='anchor' id='-invited-talks'>Invited Talks</span>
+# 💬 <span id='-invited-talks'>Invited Talks</span>
 - 2021.04
 invited to report at the high-level **Forum of Language Data Application & the Corpus Research Center Opening Ceremony of China Three Gorges University**
 - 2021.11
 invited to report at **the Ninth International Academic Symposium on Contemporary Chinese New Discourses & the Second International Discourse Studies Frontier Conference**
 
-# 💻 <span id='-internships'>Internships</span>
+# 💻 <span id='-internships'>Part-time Jobs</span>
 - 2014 - 2015
 an summer intern in **Shanghai Xueying Clothing Factory** and a building materials market
 - 2018.03
