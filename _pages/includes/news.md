@@ -1,11 +1,11 @@
-# 🔥 News
+# 🔥 <span class='anchor' id='-news'>News</span>
 ## 💼 1. Academic Activities
 - 2020.10
 became a member of the Special Committee of Language, Literature and Science studies affiliated with **Chinese Society for the History of Science and Technology**
 
 - research & teaching assistant for UCAS undergraduates and graduates
 
-- (also see the following section of Invited Talks)
+- (also see the following section of [Invited Talks](#Invited Talks))
 
 ## 🎈 2. Volunteer Activities
 

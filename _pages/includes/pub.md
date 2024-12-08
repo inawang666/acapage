@@ -1,5 +1,4 @@
-# 📝 Publications 
-#    (and research experience)
+# 📝 <span class='anchor' id='-publications'>Publications (and research experience)</span> 
 ## 🔍 1. Selected Projects
 
 ### *2014.09 - 2018.07 (AHUT)*
